@@ -1,0 +1,15 @@
+/Users/imraanmohamudali/Desktop/U.M/bin/Debug/net9.0/U.M
+/Users/imraanmohamudali/Desktop/U.M/bin/Debug/net9.0/U.M.deps.json
+/Users/imraanmohamudali/Desktop/U.M/bin/Debug/net9.0/U.M.runtimeconfig.json
+/Users/imraanmohamudali/Desktop/U.M/bin/Debug/net9.0/U.M.dll
+/Users/imraanmohamudali/Desktop/U.M/bin/Debug/net9.0/U.M.pdb
+/Users/imraanmohamudali/Desktop/U.M/obj/Debug/net9.0/U.M.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imraanmohamudali/Desktop/U.M/obj/Debug/net9.0/U.M.AssemblyInfoInputs.cache
+/Users/imraanmohamudali/Desktop/U.M/obj/Debug/net9.0/U.M.AssemblyInfo.cs
+/Users/imraanmohamudali/Desktop/U.M/obj/Debug/net9.0/U.M.csproj.CoreCompileInputs.cache
+/Users/imraanmohamudali/Desktop/U.M/obj/Debug/net9.0/U.M.sourcelink.json
+/Users/imraanmohamudali/Desktop/U.M/obj/Debug/net9.0/U.M.dll
+/Users/imraanmohamudali/Desktop/U.M/obj/Debug/net9.0/refint/U.M.dll
+/Users/imraanmohamudali/Desktop/U.M/obj/Debug/net9.0/U.M.pdb
+/Users/imraanmohamudali/Desktop/U.M/obj/Debug/net9.0/U.M.genruntimeconfig.cache
+/Users/imraanmohamudali/Desktop/U.M/obj/Debug/net9.0/ref/U.M.dll
